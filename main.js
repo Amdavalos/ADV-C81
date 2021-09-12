@@ -14,7 +14,7 @@ canvas.addEventListener("mousedown", my_mousedown);
 
 function my_mousedown(e)
 {
-    //taking color from input box
+    //obtener color del cuadro de entrada
     //inicio de la actividad adicional
     color = document.getElementById("color").value;
     console.log(color);
